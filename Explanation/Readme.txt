@@ -1,0 +1,1 @@
+Full explanation of the project you will find in the README.md file.
