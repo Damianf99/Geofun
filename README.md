@@ -1,6 +1,6 @@
 # Geofun
 
-This project was created for the "software engineering" subject in the University. The program which was uploaded to this repository was not the main part of the subject. It was a draft program containing only necessary functionalities which were needed for the final presentation. The core of this subject was to create a full software documentation of a given "idea". The assigned idea was to create a geography (subject) support system aimed at children from elementary schools (grades IV-VIII). This was my first project with the implementation of the PyQt5 module.
+This project was created for the "software engineering" subject in the University. The program which was uploaded to this repository was not the main part of the subject. It was a draft program containing only necessary functionalities which were needed for the final presentation. The core of this subject was to create a full software documentation of a given "idea". The assigned idea was to create a geography (subject) support system directed at children from elementary schools (grades IV-VIII). This was my first project with the implementation of the PyQt5 module.
 
 # Goal of the project
 
@@ -9,3 +9,45 @@ Help for elementary school children to learn geography in an accessible way. It 
 # Additional information
 
 The documentation consists of 85 pages with detailed explanation of conducting the whole project. It contains all the necessary aspects which are usually required in the software engineering documentation. If requested - I might share this document depending on the reason.
+
+# Screenshots:
+
+## Changing password:
+
+![plot](./Explanation/Change_password_correct.jpg)
+![plot](./Explanation/Change_password_error.jpg)
+
+## Creating account:
+
+![plot](./Explanation/Creating_account.jpg)
+
+## Grades:
+
+![plot](./Explanation/Grades.jpg)
+
+## Main menu + presentation:
+
+![plot](./Explanation/Main_menu.jpg)
+![plot](./Explanation/Kurs_podstawowy.jpg)
+![plot](./Explanation/Panstwa.jpg)
+![plot](./Explanation/Panstwa_europy.jpg)
+![plot](./Explanation/Panstwa_europy_last_slide.jpg)
+
+## Login:
+
+![plot](./Explanation/Login.jpg)
+![plot](./Explanation/No_license.jpg)
+
+## Profile:
+
+![plot](./Explanation/Profile.jpg)
+
+## License key:
+
+![plot](./Explanation/Submit_license_key.jpg)
+
+## Test:
+
+![plot](./Explanation/Test_1.jpg)
+![plot](./Explanation/Test_2.jpg)
+![plot](./Explanation/Test_final_result.jpg)
